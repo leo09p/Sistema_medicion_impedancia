@@ -1,0 +1,4 @@
+
+Esta carpeta contiene el código desarrollado para el microcontrolador ESP32 encargado de la adquisición de datos, el procesamiento de la señal y la transmisión de la información hacia la aplicación móvil.
+
+El firmware realiza la lectura de la señal analógica proveniente del sistema de medición, calcula el valor de la resistencia y envía los datos mediante comunicación inalámbrica.
