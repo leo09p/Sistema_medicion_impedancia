@@ -1,3 +1,7 @@
-Esta carpeta contiene el proyecto de la aplicación móvil desarrollada en Flutter.
 
-La aplicación permite visualizar en tiempo real los datos obtenidos por el sistema de medición
+
+Esta carpeta contiene el código fuente de la aplicación móvil desarrollada en Flutter.
+
+La aplicación permite visualizar los datos enviados por el sistema de medición basado en ESP32, mostrando en tiempo real los valores procesados por el dispositivo.
+
+En esta carpeta se encuentra el proyecto completo de Flutter, incluyendo la estructura de archivos del framework, las pantallas de la aplicación y la lógica utilizada para la comunicación con la base de datos.
