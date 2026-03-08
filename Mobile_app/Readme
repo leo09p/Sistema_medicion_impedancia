@@ -1,7 +1,16 @@
 
 
-Esta carpeta contiene el código fuente de la aplicación móvil desarrollada en Flutter.
+# Aplicación móvil
 
-La aplicación permite visualizar los datos enviados por el sistema de medición basado en ESP32, mostrando en tiempo real los valores procesados por el dispositivo.
+Esta carpeta contiene los archivos principales utilizados para el desarrollo de la aplicación móvil implementada en Flutter.
 
-En esta carpeta se encuentra el proyecto completo de Flutter, incluyendo la estructura de archivos del framework, las pantallas de la aplicación y la lógica utilizada para la comunicación con la base de datos.
+Debido a la estructura completa de los proyectos desarrollados con Flutter, no se incluyó el proyecto completo dentro del repositorio. En su lugar, se añadieron únicamente los archivos que fueron modificados o configurados específicamente para el funcionamiento de la aplicación.
+
+Entre los archivos incluidos se encuentran:
+
+* **Archivos `.dart`**, que contienen la lógica principal de la aplicación y la implementación de las pantallas utilizadas para la visualización de los datos.
+* **Archivo `pubspec.yaml`**, donde se definen las dependencias y configuraciones necesarias para el proyecto Flutter.
+* **Archivo `AndroidManifest.xml`**, que incluye la configuración requerida para la aplicación en el sistema Android.
+* **Archivos `.json` de Firebase**, utilizados para la configuración de la conexión entre la aplicación móvil y la base de datos en la nube.
+
+Estos archivos permiten identificar y reconstruir las configuraciones y modificaciones realizadas durante el desarrollo de la aplicación para la visualización de los datos generados por el sistema de medición basado en ESP32.
