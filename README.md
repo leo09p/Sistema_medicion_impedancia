@@ -23,10 +23,15 @@ impedance-measurement-system
 ```
 
 **hardware:** archivos de simulación en Proteus y diseño de la PCB en EasyEDA.
+
 **firmware:** código desarrollado para el microcontrolador ESP32.
+
 **mobile_app:** aplicación móvil desarrollada en Flutter para la visualización de los datos.
+
 **docs:** documentación del proyecto e informe técnico.
+
 **media:** imágenes y videos de demostración del sistema.
+
 
 ## Demostración
 
